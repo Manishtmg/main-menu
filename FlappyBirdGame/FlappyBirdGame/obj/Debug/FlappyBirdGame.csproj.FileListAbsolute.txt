@@ -12,3 +12,14 @@ C:\Users\Makuyi\Documents\it 145\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyB
 C:\Users\manis\Downloads\FlappyBirdGame (1)\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.AssemblyReference.cache
 C:\Users\manis\Downloads\FlappyBirdGame (1)\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
 C:\Users\manis\Downloads\FlappyBirdGame (1)\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.AssemblyReference.cache
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.exe
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.pdb
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe.config
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.exe
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\bin\Debug\FlappyBirdGame.pdb
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.flappyBirdForm.resources
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.MainMenu.resources
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.Properties.Resources.resources
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.GenerateResource.cache
+C:\Users\manis\Downloads\main-menu-main\main-menu-main\FlappyBirdGame\FlappyBirdGame\obj\Debug\FlappyBirdGame.csproj.CoreCompileInputs.cache
